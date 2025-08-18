@@ -3,7 +3,30 @@
 ###
 
 <h3 align="left">Computer Science Student @ UniMI</h3>
-
+```
+{
+  "name": "Emiddio Ingenito",
+  "role": "Computer Science Student",
+  "location": "Milan, Italy",
+  "languages_spoken": ["it_IT", "en_US"],
+  "interests": [
+    "Software Development",
+    "Self Hosting",
+    "Embedded Systems",
+    "Cybersecurity"
+  ],
+  "currently_learning": [
+    "Algorithms & Data Structures",
+    "Web Development",
+    "Embedded Software (ESP32)"
+  ],
+  "goals": [
+    "Build innovative and sustainable tech projects",
+    "Contribute to open source",
+    "Grow as a future-proof software engineer"
+  ]
+}
+```
 ###
 
 <div align="left">
