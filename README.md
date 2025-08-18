@@ -3,34 +3,16 @@
 ###
 
 <h3 align="left">Computer Science Student @ UniMI</h3>
-
-```
-{
-  "name": "Emiddio Ingenito",
-  "role": "Computer Science Student",
-  "location": "Milan, Italy",
-  "languages_spoken": ["it_IT", "en_US"],
-  "interests": [
-    "Software Development",
-    "Self Hosting",
-    "Embedded Systems",
-    "Cybersecurity"
-  ],
-  "currently_learning": [
-    "Algorithms & Data Structures",
-    "Web Development",
-    "Embedded Software (ESP32)"
-  ],
-  "goals": [
-    "Build innovative and sustainable tech projects",
-    "Contribute to open source",
-    "Grow as a future-proof software engineer"
-  ]
+```javascript
+const Emiddio_Ingenito = {
+  code: [HTML, CSS, JavaScript, Bootstrap, Java, C, GoLang],
+  others: [Node, MySQL, PostgreSQL, MongoDB, Linux],
+  languages_spoken: ["Italian", "English (C1 Level)"],
+  interests: ["Software development","Self Hosting","Embedded Systems","Cybersecurity"]
 }
 ```
 
 ###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="30" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="30" alt="css3 logo"  />
