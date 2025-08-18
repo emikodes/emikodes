@@ -6,7 +6,7 @@
 
 ```javascript
 const Emiddio_Ingenito = {
-  code: [HTML, CSS, JavaScript, Bootstrap, Java, C, GoLang],
+  code: [HTML, CSS, PHP, JavaScript, Bootstrap, Java, C, GoLang],
   others: [Node, MySQL, PostgreSQL, MongoDB, Linux],
   languages_spoken: ["Italian", "English (C1 Level)"],
   interests: ["Software development","Self Hosting","Embedded Systems","Cybersecurity"]
