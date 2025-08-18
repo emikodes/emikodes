@@ -4,7 +4,7 @@
 
 <h3 align="left">Computer Science Student @ UniMI</h3>
 
-<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Femikodes&labelColor=%234f4f4f&countColor=%23ee243e&style=plastic"/>
+<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Femikodes&labelColor=%234f4f4f&countColor=%23ee243e&style=flat"/>
 
 ```javascript
 const Emiddio_Ingenito = {
