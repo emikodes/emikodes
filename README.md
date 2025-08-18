@@ -9,6 +9,8 @@
 <a href="https://www.youtube.com/@emikodes"><img src="https://img.shields.io/badge/-YouTube-red?&style=for-the-badge&logo=youtube&logoColor=white" height=30></a>
 </div>
 
+[!NOTE] All the exercises and projects developed during my Computer Science degree at UniMI, have been moved to @emikodes-UniMI
+
 ```javascript
 const Emiddio_Ingenito = {
   code: [HTML, CSS, PHP, JavaScript, Bootstrap, Java, C, GoLang],
