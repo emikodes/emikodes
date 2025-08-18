@@ -10,7 +10,7 @@
 </div>
 
 > [!NOTE]
-> All the exercises and projects developed during my Computer Science degree at UniMI, have been moved to @emikodes-UniMI
+> All the exercises and projects developed during my Computer Science degree at UniMI, have been moved to [emikodes-UniMI](https://github.com/emikodes-UniMI)
 
 ```javascript
 const Emiddio_Ingenito = {
