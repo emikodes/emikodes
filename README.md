@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">Computer Science Student @ UniMI</h3>
+<h3 align="left">Computer Science Student @ University of Milan</h3>
 
 <div>
 <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Femikodes&labelColor=%234f4f4f&countColor=%23ee243e"/>
