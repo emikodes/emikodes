@@ -3,6 +3,7 @@
 ###
 
 <h3 align="left">Computer Science Student @ UniMI</h3>
+
 ```
 {
   "name": "Emiddio Ingenito",
@@ -27,6 +28,7 @@
   ]
 }
 ```
+
 ###
 
 <div align="left">
