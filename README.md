@@ -5,6 +5,8 @@
 <h3 align="left">Computer Science Student @ UniMI</h3>
 
 <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Femikodes&labelColor=%234f4f4f&countColor=%23ee243e"/>
+<a href="https://www.youtube.com/@emikodes"><img src="https://img.shields.io/badge/-YouTube-red?&style=for-the-badge&logo=youtube&logoColor=white" height=25></a>
+</p>
 
 ```javascript
 const Emiddio_Ingenito = {
