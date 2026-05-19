@@ -7,7 +7,7 @@
 <div>
 <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Femikodes&labelColor=%234f4f4f&countColor=%23ee243e"/>
 <a href="https://www.youtube.com/@emikodes"><img src="https://img.shields.io/badge/-YouTube-red?&style=for-the-badge&logo=youtube&logoColor=white" height=30></a>
-<a href="https://t.me/emikodes"> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+<a href="https://t.me/emiddioingenito"> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </div>
 
 > [!NOTE]
